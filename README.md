@@ -2,5 +2,4 @@
 
 Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
 
-### Projeto
-![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode-win.png?alt=media&token=218a8f2a-b800-4d03-92e8-9e493a4e949f)
+(https://drive.google.com/file/d/1o7S5cdwrTs4EC2d7G17Bd0IiB4lGabbg/view?usp=drive_link)
